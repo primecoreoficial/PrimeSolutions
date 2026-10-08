@@ -1,0 +1,20 @@
+PRIMECORE — SITE PARA GITHUB E NETLIFY
+
+1. Extraia este ZIP.
+2. Envie o conteúdo da pasta primecore ao repositório do GitHub:
+   dist/, netlify.toml e este LEIA-ME.txt.
+3. Conecte o repositório ao Netlify. A pasta de publicação é dist.
+   Não precisa instalar dependências nem executar comando de build.
+
+VÍDEO
+Basta colocar o vídeo com o nome exato apresentacao.mp4 dentro de dist,
+ao lado de index.html. Não precisa alterar o código.
+Utilize MP4 compatível com navegadores (vídeo H.264 e áudio AAC).
+Enquanto o arquivo não estiver disponível, permanece a capa "em breve".
+
+WhatsApp: +55 16 98185-8559
+Instagram: @primecoreoficial
+YouTube: em breve, com desfoque leve.
+
+Para publicar manualmente pelo Netlify, arraste a pasta dist extraída.
+O vídeo não está incluído neste ZIP.
